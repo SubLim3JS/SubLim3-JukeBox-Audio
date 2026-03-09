@@ -2,7 +2,7 @@
 SubLim3 JukeBox Files - This will create a folder with SubLim3's Audio Files. They will then be moved to their respective folders within the 'RPi-Jukebox-RFID' folders.
 
 ## Development Notes
-<p>This is based on <a [href="https://github.com/SubLim3JS/SubLim3-JukeBox/">SubLim3 JukeBox</a>.</p>
+<p>This is for the <a href="https://github.com/SubLim3JS/SubLim3-JukeBox">SubLim3 JukeBox</a>.</p>
 
 ## SubLim3 Audio
 
